@@ -1,2 +1,2 @@
 # 3 - Econometria Avançada - Aula 3
-Slides e código para aula 3 de Ecoometria Avançada
+Slides e código para aula 3 de Econometria Avançada
